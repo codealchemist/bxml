@@ -1,0 +1,17 @@
+{
+  "name": "bxml",
+  "version": "1.0.0",
+  "description": "CLI to convert binary XML to readable JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "bxml": "index.js"
+  },
+  "author": "Alberto Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "binary-xml": "^0.0.1"
+  }
+}
